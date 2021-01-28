@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## IchengU 的 BLOG
 
 You can use the [editor on GitHub](https://github.com/IchengU/IchengU.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
