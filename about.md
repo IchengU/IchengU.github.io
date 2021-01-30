@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABC
+title: 个人博客
 permalink: /about/
 ---
-###这是一个蒟蒻的博客
+这是一个蒟蒻的博客
