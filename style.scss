@@ -18,7 +18,9 @@ html {
 }
 
 body {
-	body class="no-navbar" style="background: rgba(0, 0, 0, 0) url(&quot;https://images2018.cnblogs.com/blog/1468853/201808/1468853-20180820194609451-222177793.jpg&quot;) no-repeat fixed 0% 0% / cover;"><div id="MathJax_Message" style="display: none;"
+	background: $white;
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
 }
 
 .container {
